@@ -1,0 +1,1 @@
+{"openapi":"3.0.0","info":{"title":"Spectrum Mock Data","version":"1.0.0"},"servers":[{"url":"http://localhost:3001/"}],"paths":{"/UserData":{"get":{"description":"","responses":{"200":{"description":"","content":{"application/json":{"example":"{\n  \"userName\":\"Arif\",\n  \"userLocation\":\"Pune\",\n  \"Designation\":\"SDE\"\n}"}},"headers":{}}}}}}}
